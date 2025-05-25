@@ -11,9 +11,10 @@ class TestJumpingOnClouds(unittest.TestCase):
         self.assertEquals(1, jumpingOnClouds([0, 1]))
 
     def test_test_safe_cloud_sequence(self):
-        self.assertEquals(4, jumpingOnClouds([0, 0, 0, 0, 0, 0, 0]))
+        self.assertEquals(3, jumpingOnClouds([0, 0, 0, 0, 0, 0, 0]))
         self.assertEquals(3, jumpingOnClouds([0, 0, 0, 0, 0, 0]))
 
     def test_test_alternating_cloud_sequence(self):
-        self.assertEquals(4, jumpingOnClouds([0, 1, 0, 0, 0, 1, 0]))
+        self.assertEquals(3, jumpingOnClouds([0, 1, 0, 0, 0, 1, 0]))
         self.assertEquals(4, jumpingOnClouds([0, 0, 1, 0, 0, 1]))
+        self.assertEquals(4, jumpingOnClouds([0, 0, 1, 0, 0, 1, 0]))
