@@ -14,8 +14,8 @@ def jumpingOnClouds(clouds):
 
     while current_cloud_index < len(clouds):
         # try to jump two clouds
-        if current_cloud_index + 2 > len(clouds) or is_safe(clouds[current_cloud_index + 2]):
-           current_cloud_index + 2
+        if current_cloud_index + 2 < len(clouds) and is_safe(clouds[current_cloud_index + 2]):
+           current_cloud_index += 2
         else:
             current_cloud_index += 1
         jumps += 1
