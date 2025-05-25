@@ -5,3 +5,7 @@ __pycache__/
 
 # Virtual environments
 venv/*
+
+
+# Mac stuff
+.DS_Store

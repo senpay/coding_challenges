@@ -4,6 +4,9 @@ Mostly for educational purposes, but also to keep track of my progress.
 
 Code may not run out of the box, sorry about that.
 
+# Useful pages
+- [Coding cheat sheet](cheat_sheets/coding_cheat_sheet.md)
+
 # Code Challenges
 
 ## HackerRank
