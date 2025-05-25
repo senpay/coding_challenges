@@ -1,5 +1,5 @@
 # Very cool graph traversal problem
-# see: https://leetcode.com/problems/number-of-islands/submissions/1644152264/
+# see: https://leetcode.com/problems/number-of-islands
 
 # Given an m x n 2D binary grid grid which represents a map of '1's (land) and '0's (water), return the number of islands.
 
