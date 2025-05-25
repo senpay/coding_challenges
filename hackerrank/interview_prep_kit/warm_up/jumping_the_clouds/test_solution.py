@@ -1,5 +1,5 @@
 import unittest
-from repeated_string.solution import repeatedString
+from hackerrank.interview_prep_kit.warm_up.jumping_the_clouds.solution import repeatedString
 
 class TestRepeatedString(unittest.TestCase):
 
