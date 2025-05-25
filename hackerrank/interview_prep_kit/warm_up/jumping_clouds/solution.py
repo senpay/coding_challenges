@@ -5,7 +5,19 @@
 # we can only jump to the next or After next
 # there's always a solution
 
-def jumpingOnClouds(c):
-    return 1
+def is_safe(cloud: int) -> bool:
+    return cloud == 0
 
+def jumpingOnClouds(clouds):
+    current_cloud_index = 0
+    jumps = 0
 
+    while current_cloud_index < len(clouds):
+        # try to jump two clouds
+        if current_cloud_index + 2 > len(clouds) or is_safe(clouds[current_cloud_index + 2]):
+           current_cloud_index + 2
+        else:
+            current_cloud_index += 1
+        jumps += 1
+
+    return jumps
