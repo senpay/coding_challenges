@@ -1,8 +1,4 @@
 import unittest
-import hackerrank
-import hackerrank.interview_prep_kit
-import hackerrank.interview_prep_kit.warm_up
-import hackerrank.interview_prep_kit.warm_up.jumping_clouds
 
 from hackerrank.interview_prep_kit.warm_up.jumping_clouds.solution import jumpingOnClouds
 
