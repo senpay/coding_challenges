@@ -21,3 +21,4 @@ Code may not run out of the box, sorry about that.
 - [Median Stream](leetcode/median_stream)
 - [Number of islands](leetcode/number_of_islands)
 - [Top K frequent elements](leetcode/top_k_frequent_elements)
+- [Subarray Sum Equals K](leetcode/sub_ar_sum)
