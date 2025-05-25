@@ -1,5 +1,5 @@
 import unittest
-from median_stream.solution import MedianFinder
+from leetcode.median_stream.solution import MedianFinder
 
 class TestMedianFinder(unittest.TestCase):
 
