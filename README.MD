@@ -6,6 +6,7 @@ Code may not run out of the box, sorry about that.
 
 # Useful pages
 - [Coding cheat sheet](cheat_sheets/coding_cheat_sheet.md)
+- [System design cheat sheet](cheat_sheets/system_design_sheet.md)
 
 # Code Challenges
 
