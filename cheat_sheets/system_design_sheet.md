@@ -78,7 +78,7 @@
     - Least freqeuently used
     - FIFO
 
-## Scaliong
+## Scaling
 
 ### Vertical
 - Adding more/better resources (CPU, RAM) to the existing server
