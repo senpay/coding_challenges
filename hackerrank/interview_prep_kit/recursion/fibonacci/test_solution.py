@@ -1,6 +1,6 @@
 import unittest
 
-from fibonacci.solution import fibonacci
+from hackerrank.interview_prep_kit.recursion.fibonacci.solution import fibonacci
 
 
 class TestFibonacci(unittest.TestCase):

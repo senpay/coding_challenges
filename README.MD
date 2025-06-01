@@ -12,6 +12,9 @@ Code may not run out of the box, sorry about that.
 
 ## HackerRank
 
+### Strings challenges
+- [Special String Agail](hackerrank/interview_prep_kit/strings/special_string/)
+
 ### Warm-up challenges
 - [Counting valleys](hackerrank/interview_prep_kit/warm_up/counting_valleys/)
 - [Matching socks](hackerrank/interview_prep_kit/warm_up/matching_socks/)
